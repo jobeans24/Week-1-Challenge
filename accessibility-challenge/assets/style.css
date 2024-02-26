@@ -16,7 +16,7 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
