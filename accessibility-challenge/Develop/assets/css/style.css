@@ -8,6 +8,21 @@ body {
     background-color: #d9dcd6;
 }
 
+section ul {
+    padding-right: 20px;
+    text-align: right;
+}
+
+section li{
+    display: inline-block;
+    padding: 20px;
+    justify-content: right;
+    text-align: right;
+}
+
+h1 nav {
+    display: inline;
+}
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
