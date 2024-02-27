@@ -8,11 +8,13 @@ body {
     background-color: #d9dcd6;
 }
 
+/* added code to allow section ul to be placed on the right*/
 section ul {
     padding-right: 20px;
     text-align: right;
 }
 
+/* allows the list of seo to be placed and stay on the right side of the screen */
 section li{
     display: inline-block;
     padding: 20px;
@@ -20,9 +22,11 @@ section li{
     text-align: right;
 }
 
+/* this changes the nav from block layout to inline */
 h1 nav {
     display: inline;
 }
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
